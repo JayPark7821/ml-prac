@@ -9,3 +9,6 @@
 
 ## 교차 엔트로피
 ![img_34.png](img_34.png)
+
+## 사건    
+![img_35.png](img_35.png)    

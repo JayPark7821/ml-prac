@@ -14,3 +14,9 @@
 ![img_35.png](img_35.png)    
 ![img_36.png](img_36.png)  
 ![img_37.png](img_37.png)  
+
+## 정규 분포
+ ![img_38.png](img_38.png)
+ 
+## 이항 분포
+![img_39.png](img_39.png)

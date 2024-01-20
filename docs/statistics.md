@@ -12,3 +12,5 @@
 
 ## 사건    
 ![img_35.png](img_35.png)    
+![img_36.png](img_36.png)  
+![img_37.png](img_37.png)  

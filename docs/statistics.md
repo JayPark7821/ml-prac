@@ -20,3 +20,6 @@
  
 ## 이항 분포
 ![img_39.png](img_39.png)
+
+## Kullback Leibler divergence
+![img_40.png](img_40.png)

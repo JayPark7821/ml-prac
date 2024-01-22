@@ -23,3 +23,6 @@
 
 ## Kullback Leibler divergence
 ![img_40.png](img_40.png)
+
+## 최대 가능도 추정법
+![img_41.png](img_41.png)
